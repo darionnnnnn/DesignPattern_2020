@@ -6,6 +6,13 @@ namespace _02_Proxy
     {
         static void Main(string[] args)
         {
+            Example_BuyHouse_Run();
+
+            Console.ReadLine();
+        }
+
+        private static void Example_BuyHouse_Run()
+        {
             IBuyHouse littleEngineer = new Buyer();
             IBuyHouse estateAgent = new EstateAgent(littleEngineer);
 
@@ -13,8 +20,6 @@ namespace _02_Proxy
             estateAgent.ViewTheHouse();
             estateAgent.Bargain();
             estateAgent.finish();
-
-            Console.ReadLine();
         }
 
         /// <summary>
