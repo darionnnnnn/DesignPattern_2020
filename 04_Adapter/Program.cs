@@ -41,7 +41,4 @@ namespace _04_Adapter
                 _adaptee.AdapteeRequest();
         }
     }
-
 }
-
-
