@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Behavioral_Observer", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Behavioral_Template", "08_Behavioral_Template\08_Behavioral_Template.csproj", "{AB5C31E2-F136-45BF-BB7C-9D40DD664A9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Behavioral_Strategy", "09_Behavioral_Strategy\09_Behavioral_Strategy.csproj", "{FE87921B-27D2-4117-B241-BB54A3CCCA4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{AB5C31E2-F136-45BF-BB7C-9D40DD664A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB5C31E2-F136-45BF-BB7C-9D40DD664A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB5C31E2-F136-45BF-BB7C-9D40DD664A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE87921B-27D2-4117-B241-BB54A3CCCA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE87921B-27D2-4117-B241-BB54A3CCCA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE87921B-27D2-4117-B241-BB54A3CCCA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE87921B-27D2-4117-B241-BB54A3CCCA4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

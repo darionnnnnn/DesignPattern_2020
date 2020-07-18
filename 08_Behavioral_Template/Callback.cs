@@ -34,7 +34,7 @@ namespace _08_Behavioral_Template
             public EventHandler OnCompletion;
             public void DoSomething()
             {
-                Console.WriteLine($"DoSomething，執行緒ID: {Thread.CurrentThread.ManagedThreadId}");
+                Console.WriteLine($"DoSomething 內部，執行緒ID: {Thread.CurrentThread.ManagedThreadId}");
                 Task.Run(() =>
                          {
                              Console.WriteLine($"new Task 呼叫 callback，執行緒ID: {Thread.CurrentThread.ManagedThreadId}");
