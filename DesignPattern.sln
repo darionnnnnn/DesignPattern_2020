@@ -5,23 +5,23 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{F3F601BF-C099-4D0D-80B8-795050AB1F9B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_Facade", "05_Facade\05_Facade.csproj", "{B8155E78-9BBB-47D3-98AC-25E556872C2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural_05_Facade", "05_Facade\Structural_05_Facade.csproj", "{B8155E78-9BBB-47D3-98AC-25E556872C2D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_Composite", "06_Composite\06_Composite.csproj", "{481C9C46-9AEF-45A0-BB1B-DB571070F1CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural_06_Composite", "06_Composite\Structural_06_Composite.csproj", "{481C9C46-9AEF-45A0-BB1B-DB571070F1CF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Bridge", "01_Bridge\01_Bridge.csproj", "{FD48D02D-4718-43CE-A0F8-EC1BD0E7A7E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural_01_Bridge", "01_Bridge\Structural_01_Bridge.csproj", "{FD48D02D-4718-43CE-A0F8-EC1BD0E7A7E2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Proxy", "02_Proxy\02_Proxy.csproj", "{1147819A-2BED-4E77-9E0A-51C25A7E8807}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural_02_Proxy", "02_Proxy\Structural_02_Proxy.csproj", "{1147819A-2BED-4E77-9E0A-51C25A7E8807}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Decorator", "03_Decorator\03_Decorator.csproj", "{25DAA785-5F3B-4FA5-80C2-7F83113F0A9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural_03_Decorator", "03_Decorator\Structural_03_Decorator.csproj", "{25DAA785-5F3B-4FA5-80C2-7F83113F0A9A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_Adapter", "04_Adapter\04_Adapter.csproj", "{D1870820-3AA8-41C3-80F3-4874598874AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural_04_Adapter", "04_Adapter\Structural_04_Adapter.csproj", "{D1870820-3AA8-41C3-80F3-4874598874AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Behavioral_Observer", "07_Behavioral_Observer\07_Behavioral_Observer.csproj", "{AA7FE867-D6BE-4091-9BD0-482473C5BDD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral_01_Observer", "07_Behavioral_Observer\Behavioral_01_Observer.csproj", "{AA7FE867-D6BE-4091-9BD0-482473C5BDD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Behavioral_Template", "08_Behavioral_Template\08_Behavioral_Template.csproj", "{AB5C31E2-F136-45BF-BB7C-9D40DD664A9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral_02_Template", "08_Behavioral_Template\Behavioral_02_Template.csproj", "{AB5C31E2-F136-45BF-BB7C-9D40DD664A9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Behavioral_Strategy", "09_Behavioral_Strategy\09_Behavioral_Strategy.csproj", "{FE87921B-27D2-4117-B241-BB54A3CCCA4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral_03_Strategy", "09_Behavioral_Strategy\Behavioral_03_Strategy.csproj", "{FE87921B-27D2-4117-B241-BB54A3CCCA4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
