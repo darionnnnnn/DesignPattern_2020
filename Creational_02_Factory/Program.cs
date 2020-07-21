@@ -6,10 +6,15 @@ namespace Creational_02_Factory
     {
         static void Main(string[] args)
         {
-            SimpleFactory simpleFactory = new SimpleFactory();
-            simpleFactory.Run(SimpleFactory.ProductType.TypeA);
-            Console.WriteLine("--");
-            simpleFactory.Run(SimpleFactory.ProductType.TypeB);
+            // SimpleFactory
+            // SimpleFactory simpleFactory = new SimpleFactory();
+            // simpleFactory.Run(SimpleFactory.ProductType.TypeA);
+            // Console.WriteLine("--");
+            // simpleFactory.Run(SimpleFactory.ProductType.TypeB);
+
+            // Factory
+            Factory factory = new Factory();
+            factory.Run();
 
             Console.ReadLine();
         }
