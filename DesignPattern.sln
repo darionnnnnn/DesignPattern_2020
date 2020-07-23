@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral_04_ChainOfRespon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral_05_State", "Behavioral_04_State\Behavioral_05_State.csproj", "{1BD1EC8C-DC90-4579-AEAA-04835FEC6FDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral_06_Iterator", "Behavioral_06_Iterator\Behavioral_06_Iterator.csproj", "{343D95AD-C45B-4A9E-B2AF-8F0BF8EACB46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{1BD1EC8C-DC90-4579-AEAA-04835FEC6FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BD1EC8C-DC90-4579-AEAA-04835FEC6FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BD1EC8C-DC90-4579-AEAA-04835FEC6FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343D95AD-C45B-4A9E-B2AF-8F0BF8EACB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343D95AD-C45B-4A9E-B2AF-8F0BF8EACB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343D95AD-C45B-4A9E-B2AF-8F0BF8EACB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343D95AD-C45B-4A9E-B2AF-8F0BF8EACB46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
